@@ -16,7 +16,7 @@ El obtener todas las llaves y abrir la última puerta genera dinámicamente el c
 
 
 
-Obtener todas las llaves y abrir la última puerta -> Generación dinámica de mensaje -> Se cumple el protocolo de envío -> Se obtiene un resultado del correo (satisfactorio o negativo)
+Ingresar correo electrónico -> Obtener todas las llaves y abrir la última puerta -> Generación dinámica de mensaje -> Se cumple el protocolo de envío -> Se obtiene un resultado del correo (satisfactorio o negativo)
 
 
 
